@@ -1,11 +1,10 @@
 ﻿using System.Configuration;
 using System.Data.Common;
-using System.Data.Objects;
 using System;
+using System.Data.Entity.Core.Objects;
 using System.Reflection;
 using System.Data.Entity.ModelConfiguration;
 using System.Data.Entity;
-using System.Data.Entity.Infrastructure;
 
 namespace Infrastructure.Data
 {
